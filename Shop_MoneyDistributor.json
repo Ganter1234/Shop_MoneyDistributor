@@ -1,8 +1,3 @@
-# [Shop] Money Distributor
-Adds various activities for which you can get credits
-
-# Config
-```json
 {
 	"PlayerKill_Credits": 2, // Кол-во кредитов за убийство
 	"PlayerDeath_Credits": -5, // Кол-во кредитов за смерть
